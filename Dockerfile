@@ -1,1 +1,1 @@
-FROM appsvc/php
+FROM nginx
